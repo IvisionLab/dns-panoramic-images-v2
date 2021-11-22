@@ -15,7 +15,7 @@ We cropped all images to the new 1876x1036 dimensions and converted them to PNG 
 The table below summarizes the data used according to image categories.
 These categories group the images according to the presence of 32 teeth, restoration, and dental appliances, revealing the high variability of the images.
 Categories 5 and 6 are reserved for patients with dental implants and more than 32 teeth, respectively.
-**Spoiler**: Watch this repo for soon-to-be publish updates.
+**Spoiler**: Watch this repo for soon to be published updates.
 
 
 | Category |      32 Teeth      |     Restoration    |      Appliance     | Number and Inst. Segm. |
@@ -35,11 +35,11 @@ Categories 5 and 6 are reserved for patients with dental implants and more than 
 ## Citation
 If you use this data set, please cite:
 
-L. Pinheiro, B. Silva, B. Sobrinho, F. Lima, P. Cury, L. Oliveira, “A study on tooth segmentation and numbering using end-to-end deep neural networks,” in Symposium on Medical Information Processing and Analysis (SIPAIM). SPIE, 2021.
+L. Pinheiro, B. Silva, B. Sobrinho, F. Lima, P. Cury, L. Oliveira, “Numbering permanent and deciduous teeth via deep instance segmentation in panoramic X-rays,” in Symposium on Medical Information Processing and Analysis (SIPAIM). SPIE, 2021.
 
 ```
-@inproceedings{silva2020study,
-  title={A study on tooth segmentation and numbering using end-to-end deep neural networks},
+@inproceedings{pinheiro2021numbering,
+  title={Numbering permanent and deciduous teeth via deep instance segmentation in panoramic X-rays},
   author={Pinheiro, Laís and Silva, Bernardo and Sobrinho, Brenda and Lima, Fernanda and Cury, Patrícia and Oliveira, Luciano.}
   booktitle={Symposium on Medical Information Processing and Analysis (SIPAIM)},
   year={2021},
@@ -108,7 +108,7 @@ Current position: [your job title]
 
 E-mail: [must be the e-mail at the above-mentioned institution]
 
-I have read and agreed to follow the terms and conditions below: The following conditions define the use of the DNS Panoramic Images:
+I have read and agreed to follow the terms and conditions below: The following conditions define the use of the DNS Panoramic Images v2:
 
 This data set is provided "AS IS" without any express or implied warranty. Although every effort has been made to ensure accuracy, IvisionLab does not take any responsibility for errors or omissions;
 
