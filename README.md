@@ -18,19 +18,19 @@ Categories 5 and 6 are reserved for patients with dental implants and more than 
 **Spoiler**: Watch this repo for soon-to-be publish updates.
 
 
-| Category |      32 Teeth      |     Restoration    |      Appliance     | Number and Inst. Segm. | Semantic Segm. |
-|:--------:|:------------------:|:------------------:|:------------------:|:----------------------:|:--------------:|
-|     1    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |           23           |       57       |
-|     2    | :heavy_check_mark: | :heavy_check_mark: |                    |           174          |       80       |
-|     3    | :heavy_check_mark: |                    | :heavy_check_mark: |           42           |       11       |
-|     4    | :heavy_check_mark: |                    |                    |           92           |       68       |
-|     7    |                    |      Implants      |                    |           36           |       87       |
-|     8    |                    | More than 32 teeth |                    |           128          |       355      |
-|     7    |                    | :heavy_check_mark: | :heavy_check_mark: |           36           |       87       |
-|     8    |                    | :heavy_check_mark: |                    |           128          |       355      |
-|     9    |                    |                    | :heavy_check_mark: |           14           |       33       |
-|    10    |                    |                    |                    |           34           |       87       |
-|          |                    |                    |        Total       |           543          |       778      |
+| Category |      32 Teeth      |     Restoration    |      Appliance     | Number and Inst. Segm. |
+|:--------:|:------------------:|:------------------:|:------------------:|:----------------------:|
+|     1    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |           24           |
+|     2    | :heavy_check_mark: | :heavy_check_mark: |                    |           66           |
+|     3    | :heavy_check_mark: |                    | :heavy_check_mark: |           14           |
+|     4    | :heavy_check_mark: |                    |                    |           41           |
+|     7    |                    |      Implants      |                    |           36           |
+|     8    |                    | More than 32 teeth |                    |           51           |
+|     7    |                    | :heavy_check_mark: | :heavy_check_mark: |           35           |
+|     8    |                    | :heavy_check_mark: |                    |           136          |
+|     9    |                    |                    | :heavy_check_mark: |           13           |
+|    10    |                    |                    |                    |           34           |
+|          |                    |                    |        Total       |           450          |
 
 ## Citation
 If you use this data set, please cite:
