@@ -96,7 +96,7 @@ The conversions.py file defines useful functions to visualize the annotations.
 Please send an e-mail to lrebouca@ufba.br to receive a link to download the **DNS Panoramic Images v2** data set. The e-mail must be sent from a professor's valid institutional account and must include the following text (copy and paste the text below, filling the required fields, and send it with the professor's signature, in PDF attached in the e-mail):
 
 
-**Subject**: Request to download the DNS Panoramic Images v2.0.
+**Subject**: Request to download the DNS Panoramic Images v2.
 
 "Name: [your first and last name]
 
