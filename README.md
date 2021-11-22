@@ -63,10 +63,6 @@ Please, consider reading and citing:
 }
 ```
 
-## Previous Works
-This data set and its corresponding paper give continuity to other works of ours.
-Please, consider reading and citing:
-
 - G. Jader, J. Fontineli, M. Ruiz, K. Abdalla, M. Pithon, and L. Oliveira, “Deep instance segmentation of teeth in panoramic X-ray images,” in Conference on Graphics, Patterns and Images. IEEE, 2018.
 ```
 @inproceedings{jader2018deep,
