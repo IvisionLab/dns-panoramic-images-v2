@@ -1,7 +1,7 @@
 # Numbering permanent and deciduous teeth via deep instance segmentation in panoramic X-rays
 In this repo, you will find the instructions on how to [request the data set](#Request-the-Data-Set) used to perform the experiments of the aforementioned paper.
 We manually annotated from scratch a subset of 450 images from the [UFBA-UESC Dental Images Deep data set](https://github.com/IvisionLab/deep-dental-image), which comprises 1500 panoramic dental radiographs.
-We consider that this new data set gives continuity to a previously published data set: [DNS Panoramic Images](https://github.com/IvisionLab/dns-panoramic-images).
+We consider that this new data set evolves a previously published data set: [DNS Panoramic Images](https://github.com/IvisionLab/dns-panoramic-images).
 Therefore, we refer to this new data set as the **DNS Panoramic Images v2**, where DNS stands for Detection, Numbering, and Segmentation.
 We presented our results at the 17th International Symposium on Medical Information Processing and Analysis (SIPAIM), and our paper was among the finalists of the best paper award.
 To be notified of code releases, new data sets, and errata, please watch this repo.
@@ -48,7 +48,7 @@ L. Pinheiro, B. Silva, B. Sobrinho, F. Lima, P. Cury, L. Oliveira, “Numbering 
 ```
 
 ## Previous Works
-This data set and its corresponding paper give continuity to other works of ours.
+This data set and its corresponding paper are a continuation of works of our group.
 Please, consider reading and citing:
 
 - B. Silva, L. Pinheiro, L. Oliveira, and M. Pithon, “A study on tooth segmentation and numbering using end-to-end deep neural networks,” in Conference on Graphics, Patterns and Images. IEEE, 2020.
