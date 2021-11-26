@@ -48,7 +48,7 @@ L. Pinheiro, B. Silva, B. Sobrinho, F. Lima, P. Cury, L. Oliveira, “Numbering 
 ```
 
 ## Previous Works
-This data set and its corresponding paper are a continuation of works of our group.
+This data set and its corresponding paper are a continuation of other works of our group.
 Please, consider reading and citing:
 
 - B. Silva, L. Pinheiro, L. Oliveira, and M. Pithon, “A study on tooth segmentation and numbering using end-to-end deep neural networks,” in Conference on Graphics, Patterns and Images. IEEE, 2020.
