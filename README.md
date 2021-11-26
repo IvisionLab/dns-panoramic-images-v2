@@ -89,8 +89,8 @@ Please, consider reading and citing:
 ```
 
 ## Demonstration
-Follow the provided jupyter notebook (demo.ipynb) to get a quick sense of the data set.
-The conversions.py file defines useful functions to visualize the annotations.
+Follow the provided jupyter notebook ([demo.ipynb](https://github.com/IvisionLab/dns-panoramic-images-v2/blob/main/demo.ipynb)) to get a quick sense of the data set.
+The [conversions.py](https://github.com/IvisionLab/dns-panoramic-images-v2/blob/main/conversions.py) file defines useful functions to visualize the annotations.
 
 ## Request the Data Set
 Copy the text below in a PDF file, fill out the fields in the text header, and sign it at the end. Please send an e-mail to lrebouca@ufba.br to receive a link to download the **DNS Panoramic Images v2** data set with the PDF in attachment. The e-mail must be sent from a professor's valid institutional account:
