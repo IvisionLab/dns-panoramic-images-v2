@@ -24,8 +24,8 @@ Categories 5 and 6 are reserved for patients with dental implants and more than 
 |     2    | :heavy_check_mark: | :heavy_check_mark: |                    |           66           |
 |     3    | :heavy_check_mark: |                    | :heavy_check_mark: |           14           |
 |     4    | :heavy_check_mark: |                    |                    |           41           |
-|     7    |                    |      Implants      |                    |           36           |
-|     8    |                    | More than 32 teeth |                    |           51           |
+|     5    |                    |      Implants      |                    |           36           |
+|     6    |                    | More than 32 teeth |                    |           51           |
 |     7    |                    | :heavy_check_mark: | :heavy_check_mark: |           35           |
 |     8    |                    | :heavy_check_mark: |                    |           136          |
 |     9    |                    |                    | :heavy_check_mark: |           13           |
