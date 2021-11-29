@@ -40,7 +40,7 @@ L. Pinheiro, B. Silva, B. Sobrinho, F. Lima, P. Cury, L. Oliveira, “Numbering 
 ```
 @inproceedings{pinheiro2021numbering,
   title={Numbering permanent and deciduous teeth via deep instance segmentation in panoramic X-rays},
-  author={Pinheiro, Laís and Silva, Bernardo and Sobrinho, Brenda and Lima, Fernanda and Cury, Patrícia and Oliveira, Luciano.}
+  author={Pinheiro, La{\'\i}s and Silva, Bernardo and Sobrinho, Brenda and Lima, Fernanda and Cury, Patr{\'\i}cia and Oliveira, Luciano.},
   booktitle={Symposium on Medical Information Processing and Analysis (SIPAIM)},
   year={2021},
   organization={SPIE}
@@ -56,7 +56,7 @@ Please, consider reading and citing:
 ```
 @inproceedings{silva2020study,
   title={A study on tooth segmentation and numbering using end-to-end deep neural networks},
-  author={Silva, Bernardo and Pinheiro, Laís and Oliveira, Luciano and Pithon, Matheus}
+  author={Silva, Bernardo and Pinheiro, La{\'\i}s and Oliveira, Luciano and Pithon, Matheus},
   booktitle={Conference on Graphics, Patterns and Images (SIBGRAPI)},
   year={2020},
   organization={IEEE}
